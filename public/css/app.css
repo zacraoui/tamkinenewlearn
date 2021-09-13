@@ -386,12 +386,7 @@ textarea {
     resize: vertical;
 }
 
-.wpcf7 .wpcf7-form .contact-form-footer .wpcf7-submit {
-    width: 100%;
-    padding: 11px;
-    margin: 0;
-    line-height: 0;
-}
+
 .wpcf7-form .contact-form-footer .wpcf7-submit {
     background-color: #394050;
     color: #99a9b5;

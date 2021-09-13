@@ -17,4 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::view('/app', 'app');
+Route::view('/header', 'header');
+Route::view('/body', 'body');
+Route::view('/footer', 'footer');
 
